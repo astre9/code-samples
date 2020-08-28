@@ -1,0 +1,9 @@
+E:\Web Stuff\API_CashAway\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Web Stuff\API_CashAway\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Web Stuff\API_CashAway\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Web Stuff\API_CashAway\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Web Stuff\API_CashAway\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Web Stuff\API_CashAway\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Web Stuff\API_CashAway\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Web Stuff\API_CashAway\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Web Stuff\API_CashAway\Domain\obj\Debug\netstandard2.1\Domain.pdb

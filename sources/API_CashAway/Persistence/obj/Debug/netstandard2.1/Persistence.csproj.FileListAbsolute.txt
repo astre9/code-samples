@@ -1,0 +1,12 @@
+E:\Web Stuff\API_CashAway\Persistence\bin\Debug\netstandard2.1\Persistence.deps.json
+E:\Web Stuff\API_CashAway\Persistence\bin\Debug\netstandard2.1\Persistence.dll
+E:\Web Stuff\API_CashAway\Persistence\bin\Debug\netstandard2.1\Persistence.pdb
+E:\Web Stuff\API_CashAway\Persistence\bin\Debug\netstandard2.1\Domain.dll
+E:\Web Stuff\API_CashAway\Persistence\bin\Debug\netstandard2.1\Domain.pdb
+E:\Web Stuff\API_CashAway\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
+E:\Web Stuff\API_CashAway\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
+E:\Web Stuff\API_CashAway\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs
+E:\Web Stuff\API_CashAway\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CoreCompileInputs.cache
+E:\Web Stuff\API_CashAway\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
+E:\Web Stuff\API_CashAway\Persistence\obj\Debug\netstandard2.1\Persistence.dll
+E:\Web Stuff\API_CashAway\Persistence\obj\Debug\netstandard2.1\Persistence.pdb
